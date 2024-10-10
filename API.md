@@ -34,7 +34,7 @@ void loop() {
 }
 ```
 
-### LoRa module sleep
+### LoRa module wake-up
 Wake LoRa/LoRaWAN module.
 
 #### Syntax
